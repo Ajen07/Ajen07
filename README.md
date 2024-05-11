@@ -24,14 +24,7 @@
 
 <br/>
 
-# 🧐 Visitors Count
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Ajen07/count.svg)
 
-</div>
-
-<br/>
 
 # 📊 Github Stats
 
