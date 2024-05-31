@@ -39,7 +39,6 @@
 <img src="https://streak-stats.demolab.com?user=Ajen07&theme=tokyonight&count_private=true" alt="github-stats" width="49%"/>
 
 </span>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajen07&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
 
 </div>
 
