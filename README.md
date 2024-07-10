@@ -67,6 +67,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=Typescript&color=%231a1b27">
 <img alt="Static Badge" src="https://img.shields.io/badge/react-logo?style=for-the-badge&logo=react&color=%231a1b27">
 <img alt="Static Badge" src="https://img.shields.io/badge/redux-logo?style=for-the-badge&logo=redux&color=%23593d88">
+<img alt="Static Badge" src="https://img.shields.io/badge/Nextjs-logo?style=for-the-badge&logo=nextjs&color=%23233056">
 </div>
 
 </td><td valign="top" width="33%">
@@ -82,6 +83,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/mongoDB-logo?style=for-the-badge&logo=mongodb&color=%231a1b27">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&color=%231a1b27">
 <img alt="Static Badge" src="https://img.shields.io/badge/graphql-logo?style=for-the-badge&logo=graphql&color=%23db39ce">
+<img alt="Static Badge" src="https://img.shields.io/badge/Nextjs-logo?style=for-the-badge&logo=nextjs&color=%23233056">
+<img alt="Static Badge" src="https://img.shields.io/badge/Nestjs-logo?style=for-the-badge&logo=nestjs&color=ea285a">
 
 
 </div>
